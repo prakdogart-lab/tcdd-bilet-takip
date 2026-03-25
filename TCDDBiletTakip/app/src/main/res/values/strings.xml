@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TCDD Bilet Takip</string>
+    <string name="add_tracking">Tren Takibi Ekle</string>
+    <string name="departure_station">Kalkış İstasyonu</string>
+    <string name="arrival_station">Varış İstasyonu</string>
+    <string name="journey_date">Yolculuk Tarihi</string>
+    <string name="select_train">Tren Seç</string>
+    <string name="seat_types">Koltuk Tipleri</string>
+    <string name="save">Kaydet</string>
+    <string name="cancel">İptal</string>
+    <string name="delete">Sil</string>
+    <string name="ekonomi">Ekonomi (Normal)</string>
+    <string name="business">Business</string>
+    <string name="tekerlekli">Tekerlekli Sandalye</string>
+    <string name="backend_url">Backend URL</string>
+    <string name="check_all">Tümünü Kontrol Et</string>
+    <string name="settings">Ayarlar</string>
+</resources>
