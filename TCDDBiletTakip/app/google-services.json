@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "trenbilettakip",
+  "private_key_id": "ae6a112fccead9a9382d9f86e227bb0d7f18710f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDrMWpcOtc32DCE\nZHbjFKB5nDUOKrSvLa/CvjkMKqhe4Ybch2f6p2vNBWUFoiGVRLz4TpUmJHfXzotK\nj6bkszwBDfoHEHrPgoDq3cNUDsWORlsuicijHa00v/crQMbeWDMP+f49aGmPXSGL\nesPO6oazwPEYsraZGFtam3pJobqbfNN3cjjZ8Ok6+alDwgqjQO3bLC8gVkioIEPe\np3KS9tHTtMdOJ8uhNSBpbZ4jR7wy5DhRGz5XVET3e/REEwR2fHhiBexIFFbsUpDE\nJD+6wNfSzLV+RvlDe6RsdMbUyJ3f7i+MStaRPoKmIiKty59WrGAdgPXMA6sNOOkl\nVBL2C0ArAgMBAAECggEAPPsokTZedCfVWJZ17uX7v9xdM0mmZJ9raYqJ3xo2YreG\nEKr5Llf3jwadjWre20Wh254AdQ3Slv2CRzhc9QJ2Be36TJecyC4VwA/049gaqAuc\n+8GU6Jo6vSki7K+UgLUMtFFE9uYaLKZgmrofiAhuGbBmstkvmB1lHmaeu/W3nTWu\njL8aGhIWNAc2JIznlhvLa66/Q3sIYUcqxo20mG00BOwL7V4rpxBu3gsatFuNZg7T\nqAfM2ivMXzghDfH/CUQqrgStqRNYazX1yJVa0omx/7Aw6EKTZT6rVD7xvPh5qf+H\n5vzT8uGDklBiZUTECqBKgFMpFvIv4cinxyBl4x7bOQKBgQD9iik+BVkZfET1Cw3x\nz6aodFaT1rRkJ7IeYiOT9KERPf7dtuHqN3C+REYj+deqFSGmuMh6XhkQZcZ3axc2\nRqyXnaaII55o44a5ZsxJ7pSBJSZqyUmekj9VIE7lTmSZ29sB5T3VNfBKXBuZVnmG\nI9i5Or9S7/ZLklnCPtGGt7FLOQKBgQDtea2LSmbzNwFDnkRDkS5GGkL5pZKO23pL\nwcOKpD5hB7me721WMIomGiBwGUTGuhsocp12PmMVP2+3IoCZrA+57O5WUtUD/7x3\nkAls3n4XPzWT/HXkCCejiYz7U2vFumbeVxCTp3/t2m+uyqMMTdtTae3LWpzzEbyb\nHHjJAoXSgwKBgDEQ6thY2pxnA0VU5Vb1s7AIC7VCqNh1IjBlF7OLdRxMHiW0PdZA\n8m2v8s8Fi+obes60FgAwc7NLrvPvYqebV81jshXIpuBvn+QDc+ee51hy4xNpbvjk\nHqOPxBT2bdukw6aDQcsgTCdn2eN767q89zUpnFslm0mWwg4ocA4dQI9pAoGAWdeA\n2oOpczZKGiTUOqPAV/EziXMkgTtzhxmlOtxsZRUhGooGWWc/vK6Buyc0J+Lcx26l\nN8jef3licGxzLrAzuulyOeJYiIzF5o3touyB05WsVXJbv4t+Q5aUabjjuwiMRm21\n7cae1YOgYQZ0rQD/iw02U4rSefsp2Zzp7VIxArUCgYA4W79DVuIjrdm3zVCFH5JW\nmfOX1eP/ZMoT4svd4y0NsLM2flxoxePr2k3eoeDj3x2MwjBidEM8Xs4HtQKaEw7Y\nCEdaTo4LMbn4eYIBf9O6hlawDSPTb8NsHOaUcRKqkqw3XcdKNOA8h9Gu3oAmXkeO\nY/jDp2roZrnFxftY91qTCg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@trenbilettakip.iam.gserviceaccount.com",
+  "client_id": "113824224994002459343",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40trenbilettakip.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
