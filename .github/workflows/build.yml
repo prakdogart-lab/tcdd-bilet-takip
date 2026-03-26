@@ -25,6 +25,8 @@ jobs:
           echo '${{ secrets.GOOGLE_SERVICES_JSON }}' > TCDDBiletTakip/app/google-services.json
 
       - name: Make gradlew executable
+      name: Fix gradlew permissions
+        run: git update-index --chmod=+x TCDDBiletTakip/gradlew
         run: chmod +x TCDDBiletTakip/gradlew
 
       - name: Build Debug APK
