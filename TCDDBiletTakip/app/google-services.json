@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:366200829977:android:9ca286e8a5a87ac8849288",
+        "mobilesdk_app_id": "1:366200829977:android:87ff0169a3996975849288",
         "android_client_info": {
-          "package_name": "tren.bileti"
+          "package_name": "com.tcddtakip"
         }
       },
       "oauth_client": [],
