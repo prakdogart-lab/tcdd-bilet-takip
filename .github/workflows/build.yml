@@ -20,11 +20,6 @@ jobs:
       - name: Setup Android SDK
         uses: android-actions/setup-android@v2
 
-      - name: Add google-services.json
-        run: |
-          cat << 'GOOGLEEOF' > TCDDBiletTakip/app/google-services.json
-          ${{ secrets.GOOGLE_SERVICES_JSON }}
-          GOOGLEEOF
       - name: Setup Gradle
         uses: gradle/gradle-build-action@v2
         with:
