@@ -27,8 +27,9 @@
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
         <ProgressBar
+            <ProgressBar
             android:id="@+id/progressBar"
-            style="?attr/progressBarStyleHorizontal"
+            style="@android:style/Widget.ProgressBar.Horizontal"
             android:layout_width="match_parent"
             android:layout_height="4dp"
             android:indeterminate="true"
