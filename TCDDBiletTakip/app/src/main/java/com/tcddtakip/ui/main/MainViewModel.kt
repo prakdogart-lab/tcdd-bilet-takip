@@ -8,6 +8,7 @@ import androidx.lifecycle.viewModelScope
 import com.tcddtakip.data.api.ApiClient
 import com.tcddtakip.data.model.TrainTracking
 import kotlinx.coroutines.launch
+import android.content.Context
 
 class MainViewModel(app: Application) : AndroidViewModel(app) {
 
@@ -22,7 +23,12 @@ class MainViewModel(app: Application) : AndroidViewModel(app) {
     val isLoading = MutableLiveData(false)
 
     init {
-        loadTrackings()
+        val prefs = getApplication<Application>()
+            .getSharedPreferences("tcdd_prefs", Context.MODE_PRIVATE)
+        val url = prefs.getString("backend_url", "") ?: ""
+        if (url.isNotEmpty()) {
+            loadTrackings()
+        }
     }
 
     fun loadTrackings() {
